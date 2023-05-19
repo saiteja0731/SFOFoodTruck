@@ -1,17 +1,16 @@
 # SFOFoodTruck
 Engineering Challenge: https://github.com/peck/engineering-assessment
 
-## Run Web-Backend using below commands
+## Run Web-Backend using below commands <br>
+unzip the file<br>
+run "npm install -s csvtojson"<br>
+run "npm install -s axios"<br>
+run "npm install -s cors"<br>
+run "npm install -s express"<br>
+run "node server.js"<br>
 
-unzip the file /n
-run "npm install -s csvtojson"/n
-run "npm install -s axios"/n
-run "npm install -s cors"/n
-run "npm install -s express"/n
-run "node server.js"/n
-
-## Run Web-UI using below commands
-unzip the file/n
-go inside the file/n
-run "npm install" command/n
-run "npm start"/n
+## Run Web-UI using below commands <br>
+unzip the file<br>
+go inside the file<br>
+run "npm install" command<br>
+run "npm start"<br>
